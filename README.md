@@ -60,7 +60,7 @@ Model graph for Open Circuit Test:
 
 ![alt text](3.jpeg)
 
-Model graph for Load Test:
+Model graph for Load Circuit Test:
 
 ![alt text](4.jpeg)
 
